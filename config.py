@@ -34,8 +34,8 @@ class Config(object):
     DEF_WATER_MARK_FILE = "© @sahilnolia"
     SHORT_LINK_API_URL = os.environ.get("SHORT_LINK_API_URL", "https://za.gl/api")
     SHORT_LINK_API_KEY = os.environ.get("SHORT_LINK_API_KEY", "")
-    IS_TEAM_DRIVE = os.environ.get("true", true)
-    USE_SERVICE_ACCOUNTS = os.environ.get("false", False)
+    IS_TEAM_DRIVE = os.environ.get("true", "true")
+    USE_SERVICE_ACCOUNTS = os.environ.get("false", "False")
     INDEX_URL = os.environ.get("INDEX_URL", "https://m.tortoolkit.workers.dev/0:")
     parent_id = os.environ.get("12fKt8u1yYiU3aU-NZ3KG31R2-y9ZZYPc","")
     STRIP_FILE_NAMES = os.environ.get("STRIP_FILE_NAMES","www.1TamilMV.life - |www.1TamilMV.life -|www.1TamilMV.org - |www.1TamilMV.org -|www.1TamilMV.xyz - |www.1TamilMV.xyz -|@telupalaka_ht|@telugu_moviez_|@telugu_moviez|@telugupalaka_ht_|@telugupalaka_ht|[MM].|[MM]|[MM] -|@telugu_dubbedmovies_|@telugu_dubbedmovies|@Moviez_India.|@Moviez_India_|@Moviez_India|www_Telugupalaka_com|@MM_New|@MM_Links|@MM_Linkz|www.TamilRockers.ws -|@Animationmovies|HT_BEATS_|-@lubokvideo|@lubokvideo|@english_movieschannel_|@english_movieschannel|@themovies_channel_|@themovies_channel|@telugu_bluray|@teluguoldmovies|[Movies Vip]|[CC].|[CC]|@CC_Links.|@CC_Links|@CC_x265.|@CC_x265|@CC.|@CC|@CC_ALL|@CPR_|@CPR|Moviez_India.|Moviez_India")
